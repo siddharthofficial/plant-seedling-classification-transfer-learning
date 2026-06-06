@@ -1,0 +1,2 @@
+# plant-seedling-classification-transfer-learning
+This project implements an end-to-end deep learning pipeline for multi-class plant seedling classification using transfer learning techniques in PyTorch.  The objective is to accurately classify plant seedlings into 12 species using pretrained convolutional neural networks and evaluate the effectiveness of different transfer learning architectures.
