@@ -218,14 +218,20 @@ plant-seedling-classification-transfer-learning/
 |── architecture.png
 |── requirements.txt
 |
-├── notebook/
-│   └── plant_seedling_classifier.ipynb
+├──  plant_seedling_classifier.ipynb 
 |
-├── outputs/
-│   ├── confusion_matrices/
-│   ├── gradcam/
-│   ├── umap/
-│   └── metrics/
+├── results/
+│   ├── confusion_matrix_inception.png
+│   ├── confusion_matrix_resnet.png
+│   ├── confusion_matrix_vgg16.png
+│   ├── grad_cam.png
+│   ├── inception_loss_accuracy_curve.png
+│   ├── resnet_loss_accuracy_curve.png
+│   ├── vgg_loss_accuracy_curve.png
+│   ├── model_results.png
+│   ├── umap_embedding.png
+│   └── streamlit_upload_page.png
+│   ├── streamlit_gradcam_prediction.png
 |
 ├── README.md
 
